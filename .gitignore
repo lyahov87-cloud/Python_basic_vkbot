@@ -1,5 +1,7 @@
-# Byte-compiled / optimized / DLL files
+.env
+bot_history.db
 __pycache__/
+# Byte-compiled / optimized / DLL files
 *.py[cod]
 *$py.class
 
